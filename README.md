@@ -1,5 +1,3 @@
-# littlebike.github.io
-
 <!DOCTYPE html>
 <html>
 <body>
